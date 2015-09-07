@@ -1,0 +1,1 @@
+Updated to latest Sponge version;Startup message now displays version;Minor API additions
