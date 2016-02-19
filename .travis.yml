@@ -1,0 +1,10 @@
+install:
+- 'git clone https://github.com/git-ftp/git-ftp.git'
+- 'cd git-ftp'
+- 'git checkout 1.1.0'
+- 'sudo make install'
+script:
+- 'git clone https://github.com/Flibio/EconomyLite.git'
+- 'dir'
+- 'cd EconomyLite'
+- 'git ftp push --f --branch wiki --user ${FTP_USER} --passwd ${FTP_PASS} ftp://ftp.flibio.net/economylite/wiki'
