@@ -25,17 +25,17 @@ Drag and drop EconomyLite into your "mods" folder along with Sponge and start yo
 
 ---
 
-:inbox_tray: [**Download EconomyLite**][1]
+[**Download EconomyLite**][1]
 
-:bangbang: [**Issue Tracker**][2]
+[**Issue Tracker**][2]
 
-:memo: [**Feature Suggestions**][3]
+[**Feature Suggestions**][3]
 
-:wrench: [**Source Code**][4]
+[**Source Code**][4]
 
-:books: [**Wiki**][5]
+[**Wiki**][5]
 
-:heavy_dollar_sign: [**Support Me**][6]
+[**Support Me**][6]
 
 [1]: https://github.com/Flibio/EconomyLite/releases
 [2]: https://github.com/Flibio/EconomyLite/issues
